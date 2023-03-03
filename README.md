@@ -3,6 +3,7 @@
 # Requirments
 ##### pip install PyAutoGUI
 ##### pip install opencv-python
+##### pip install Pillow
 # What to do?
 ##### Download png and py file and put them into a folder
 ##### In your folder, run py this_1.py
